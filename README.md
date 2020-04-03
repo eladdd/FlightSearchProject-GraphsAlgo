@@ -14,4 +14,5 @@ Topics:
     IDao.
     While using specific topics for learning.
 
+ ![Project Structure](https://github.com/eladdd/FlightSearchProject-GraphsAlgo/blob/master/project%20images/Project%20Structure.jpg)
 
