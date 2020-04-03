@@ -1,6 +1,6 @@
 # GraphsAlgorithm
 
-Client-Server multithreading web app for the course "Programming in the Web Environment" HIT.
+Client-Server multithreading web server for the course "Programming in the Web Environment" HIT.
 
 Implementation of graph algorithms: 1. BFS . 2. Dijkstra.  For search the cheapest/shortest Flights Path.
 
